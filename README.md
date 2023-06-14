@@ -32,7 +32,7 @@ It`s needed to have Docker installed in your machine.
 
 Access folder `nestjs-sse`.
 
-Run docker compose up or docker compose up -d to run the containers (app, mysql and redis).
+Run `docker compose up` or `docker compose up -d` to run the containers (app, mysql and redis).
 
 Access your app directory inside container using `docker compose exec app bash`.
 
